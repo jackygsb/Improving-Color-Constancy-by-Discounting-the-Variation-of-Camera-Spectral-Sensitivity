@@ -1,0 +1,1 @@
+Inter CC using CM on the NUS dataset with 9 cameras
