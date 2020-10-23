@@ -1,0 +1,1 @@
+Results of Inter-CC using CBCC, CM, and the proposed method on the NUS dataset with 9 cameras.
